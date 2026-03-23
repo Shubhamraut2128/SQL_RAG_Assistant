@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+sqlalchemy
+pymysql
+python-dotenv
+pandas
+streamlit
+requests
