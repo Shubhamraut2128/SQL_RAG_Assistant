@@ -46,7 +46,12 @@ sql-rag-assistant/
     └── streamlit_app.py     # Streamlit frontend interface
 
 ```
+## 📸 Screenshots / Demo
 
+**Frontend Interface:**  
+![Frontend Screenshot](frontend/sql_assistant.png)
+
+---
 🚀 Usage
 Start Backend
 python backend/app.py
