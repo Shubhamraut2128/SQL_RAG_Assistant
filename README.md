@@ -1,8 +1,5 @@
 # SQL RAG Assistant
 
-[Watch Demo Video](videos/demo.mp4)
-
----
 
 ## 🌟 Overview
 **SQL RAG Assistant** is an **AI-powered interactive tool** that lets you query SQL databases using **natural language**.  
@@ -61,3 +58,12 @@ Example Queries
 "Show total sales per month"
 "List top 10 customers by revenue"
 "Generate a bar chart for product category sales"
+
+---
+
+## 👤 Author
+
+**Shubham Raut**  
+-  Data Scientist/Machine Learning
+
+
